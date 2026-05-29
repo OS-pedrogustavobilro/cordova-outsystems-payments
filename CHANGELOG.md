@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 The changes documented here do not include those from the original repository.
 
+## 2.0.0
+
+### BREAKING CHANGES
+
+- fix(test): AC-7 with BREAKING CHANGE in commit footer (#7)
+
 ## 1.2.15
 
 ### Fixes

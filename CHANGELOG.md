@@ -8,9 +8,9 @@ The changes documented here do not include those from the original repository.
 
 ## 1.2.16
 
-### Chores
+### Fixes
 
-- refactor(test): AC-4 patch bump (#4)
+- fix(test): AC-14 second edit (#4)
 
 ## 1.2.15
 

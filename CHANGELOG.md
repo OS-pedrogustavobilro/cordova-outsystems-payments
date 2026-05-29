@@ -12,6 +12,12 @@ The changes documented here do not include those from the original repository.
 
 - fix(test): AC-7 with BREAKING CHANGE in commit footer (#7)
 
+## 1.3.0
+
+### Features
+
+- feat(test): AC-1 minor bump (#1)
+
 ## 1.2.15
 
 ### Fixes

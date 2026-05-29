@@ -6,11 +6,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 The changes documented here do not include those from the original repository.
 
-## 1.2.16
+## 1.3.1
 
 ### Chores
 
 - chore(test): AC-3 patch bump (#3)
+
+## 1.3.0
+
+### Features
+
+- feat(test): AC-1 minor bump (#1)
 
 ## 1.2.15
 

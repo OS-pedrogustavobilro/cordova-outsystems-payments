@@ -12,6 +12,12 @@ The changes documented here do not include those from the original repository.
 
 - feat(test)!: AC-5 major bump (#5)
 
+## 1.3.0
+
+### Features
+
+- feat(test): AC-1 minor bump (#1)
+
 ## 1.2.15
 
 ### Fixes

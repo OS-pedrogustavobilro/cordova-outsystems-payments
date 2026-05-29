@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 The changes documented here do not include those from the original repository.
 
+## 1.2.16
+
+### Fixes
+
+- fix(test): AC-2 patch bump (#2)
+
 ## 1.2.15
 
 ### Fixes
